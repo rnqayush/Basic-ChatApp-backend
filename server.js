@@ -23,7 +23,7 @@ io.on("connection",socket=>{       // io.on is used to start the connection of t
 
 
 
-io.listen(3001);   // it is listening to the port 3001
+io.listen(2001);   // it is listening to the port 3001
 
 
 
